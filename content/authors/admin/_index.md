@@ -23,14 +23,18 @@ bio: I am a fourth-year undergraduate majoring in artificial intelligence at Car
 interests:
 - Information Retrieval
 - Representational Learning
-- Machine Learning
+- Semi-Supervised Learning
 - Natural Language Processing
+- Machine Learning
 
 education:
   courses:
   - course: BS in Artificial Intelligence
     institution: Carnegie Mellon University
-    year: 2023
+    year: 2019-2023
+  - course: MS in Computer Science
+    institution: The University of Texas at Austin
+    year: 2023-present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +73,4 @@ email: "rjha@cs.cmu.edu"
 # - Visitors
 ---
 
-I am currently a fourth-year undergraduate at [Carnegie Mellon University](https://www.cs.cmu.edu) where I major in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/). Rohan has previously served as a teaching assistant for two core AI courses, 07-180: *Concepts of AI* and 15-281: *AI: Representation and Problem Solving*, at CMU and has interned at both Amazon and Meta. Currently, he is conducting research under [Professor Jamie Callan](https://www.cs.cmu.edu/~callan/) and [Zhen Fan](https://alchemist75.github.io/) at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the area of neural lexical retrieval.
+I am currently a fourth-year undergraduate at [Carnegie Mellon University](https://www.cs.cmu.edu) where I major in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/). I previously served as a teaching assistant for two core AI courses, 07-180: *Concepts of AI* and 15-281: *AI: Representation and Problem Solving*, at CMU and interned at both Amazon and Meta doing software engineering related to ML recommender systems. Currently, he is conducting research under [Professor Jamie Callan](https://www.cs.cmu.edu/~callan/) and [Zhen Fan](https://alchemist75.github.io/) at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the area of neural lexical retrieval.
