@@ -37,9 +37,9 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.CI_TOKEN }}
-          external_repository: ktmeaton/ktmeaton.github.io
+          external_repository: robro612/robro612.github.io
           publish_dir: ./public
           keep_files: true
-          user_name: ktmeaton
-          user_email: ktmeaton@gmail.com
+          user_name: rjha
+          user_email: robro612@gmail.com
           publish_branch: master

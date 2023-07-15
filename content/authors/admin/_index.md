@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Artificial Intelligence Major and Research Assistant
+role: Master's Student at UT Austin
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon University
-  url: "https://www.cs.cmu.edu/"
+- name: The University of Texas at Austin
+  url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth-year undergraduate majoring in artificial intelligence at Carnegie Mellon University. I am currently applying to graduate programs for entrance in the Fall of 2023.
+bio: I am a master's student at UT Austin studying computer science and researching natural language processing
 
 interests:
 - Information Retrieval
@@ -29,12 +29,13 @@ interests:
 
 education:
   courses:
-  - course: BS in Artificial Intelligence
-    institution: Carnegie Mellon University
-    year: 2019-2023
   - course: MS in Computer Science
     institution: The University of Texas at Austin
-    year: 2023-present
+    year: 2023 - present
+  - course: BS in Artificial Intelligence
+    institution: Carnegie Mellon University
+    year: 2019 - 2023
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rjha@cs.cmu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rjha@utexas.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -64,7 +65,8 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "rjha@cs.cmu.edu"
+email: "rjha@utexas.edu"
+email: "robro612@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,4 +75,4 @@ email: "rjha@cs.cmu.edu"
 # - Visitors
 ---
 
-I am currently a fourth-year undergraduate at [Carnegie Mellon University](https://www.cs.cmu.edu) where I major in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/). I previously served as a teaching assistant for two core AI courses, 07-180: *Concepts of AI* and 15-281: *AI: Representation and Problem Solving*, at CMU and interned at both Amazon and Meta doing software engineering related to ML recommender systems. Currently, he is conducting research under [Professor Jamie Callan](https://www.cs.cmu.edu/~callan/) and [Zhen Fan](https://alchemist75.github.io/) at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the area of neural lexical retrieval.
+I am currently a master's student studying CS at [The University of Texas at Austin](https://www.utexas.edu/). I did my undergraduate degree at [Carnegie Mellon University](https://www.cs.cmu.edu) where I majored in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/) TA'd two AI courses, and conducted research at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the area of neural lexical retrieval.
