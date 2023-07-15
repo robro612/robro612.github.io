@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Student at UT Austin
+role: Master's Student & Researcher
 
 # Organizations/Affiliations
 organizations:
