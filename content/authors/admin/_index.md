@@ -53,7 +53,7 @@ social:
   link: https://github.com/robro612
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/rohan-jha-cmu
+  link: https://www.linkedin.com/in/rohan-mackin-jha/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/robro612
