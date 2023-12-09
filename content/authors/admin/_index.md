@@ -74,6 +74,6 @@ email: "robro612@gmail.com"
 # - Visitors
 ---
 
-I am currently a master's student studying CS at [The University of Texas at Austin](https://www.utexas.edu/). I did my undergraduate degree at [Carnegie Mellon University](https://www.cs.cmu.edu) where I majored in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/) TA'd two AI courses, and conducted research at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the areas of neural lexical retrieval. 
+I am currently a master's student studying CS at [The University of Texas at Austin](https://www.utexas.edu/). I did my undergraduate degree at [Carnegie Mellon University](https://www.cs.cmu.edu) where I majored in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/), TA'd two AI courses, and conducted research at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the areas of neural lexical retrieval. 
 
 I'm currently most interested in research in information retrieval, particularly [tip-of-the-tongue known-item retrieval](https://trec-tot.github.io/) and language model decoding strategies (e.g. constrained decoding, speculative decoding).
