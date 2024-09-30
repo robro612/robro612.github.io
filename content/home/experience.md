@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://lti.cs.cmu.edu/"
   location = "Pittsburgh, PA"
   date_start = "2021-12-05"
-  date_end = "2023-01-15"
+  date_end = "2022-12-15"
   description = """
   - Designed, implemented, and presented experiments and results to the principal investigator
   - Produced independent conference-style work analyzing the performance/cost tradeoff and distribution of sparsely-factorized dense embeddings as a performance-preserving, cost-optimizing modification to an existing retriever
@@ -67,6 +67,18 @@ date_format = "Jan 2006"
   - Designed, implemented, and tested software processing billions of customer impressions hourly
   - Led extensive design and review process after researching and documenting various solution alternatives
   - Reduced latency, cost, and on-call pain points to accommodate imminent 3-7x increase in impression volume
+  """
+
+  [[experience]]
+  title = "Model Training Intern"
+  company = "Jina AI"
+  company_url = "https://jina.ai/"
+  location = "Berlin, GER"
+  date_start = "2024-05-16"
+  date_end = "2024-08-16"
+  description = """
+  - Led the research and development of new multilingual, multi-vector retrieval model
+  - Expanded training infrastructure and administered controlled experiments on data, architecture, and recipe
   """
 
 

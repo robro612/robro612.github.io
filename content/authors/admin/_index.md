@@ -18,11 +18,14 @@ organizations:
   url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a master's student at UT Austin studying computer science and researching natural language processing
+bio: I am a master's student at UT Austin studying computer science and natural langauge processing
 
 interests:
 - Information Retrieval
 - Representation Learning
+- Efficient IR Inference
+- Reasoning-Intensive IR
+- LMs for IR
 - LM Decoding Strategies
 
 education:
@@ -55,9 +58,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/robro612
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/rohan.ipynb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -74,6 +74,6 @@ email: "robro612@gmail.com"
 # - Visitors
 ---
 
-I am currently a master's student studying CS at [The University of Texas at Austin](https://www.utexas.edu/). I did my undergraduate degree at [Carnegie Mellon University](https://www.cs.cmu.edu) where I majored in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/), TA'd two AI courses, and conducted research at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the areas of neural lexical retrieval. 
+I am currently a master's student studying CS at [The University of Texas at Austin](https://www.utexas.edu/). I did my undergraduate degree at [Carnegie Mellon University](https://www.cs.cmu.edu) where I majored in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/), TA'd two AI courses, and conducted research at the [Language Technologies Institute](https://lti.cs.cmu.edu/) in the areas of neural lexical retrieval. Most recently, I interned at [Jina AI](https://jina.ai/) leading the training of their [Jina-ColBERT-v2](jinaai/jina-colbert-v2) model, a multilingual multi-vector retriever.
 
-I'm currently most interested in research in information retrieval, particularly [tip-of-the-tongue known-item retrieval](https://trec-tot.github.io/) and language model decoding strategies (e.g. constrained decoding, speculative decoding).
+I'm currently most interested in research in information retrieval and representation learning. My current and previous works have been in the area of efficient and expressive multi-vector retrieval models, and reasoning intensive retrieval tasks.
